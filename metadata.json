@@ -1,0 +1,5 @@
+{
+  "name": " Gemini Image Studio",
+  "description": "An all-in-one application to analyze, edit, and generate images using the power of Google's Gemini AI models. Upload a photo for analysis, provide a text prompt to edit it, or create entirely new visuals from your imagination.\n",
+  "requestFramePermissions": []
+}
